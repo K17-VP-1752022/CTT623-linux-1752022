@@ -1,0 +1,15 @@
+Do dai : 4
+175218
+21547
+12
+6494
+So chan : 
+175218
+12
+6494
+So le: 
+21547
+So lon nhat: 175218
+So nho nhat: 12
+Nhap vi tri can tim: 
+Nhap loi
